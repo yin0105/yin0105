@@ -18,7 +18,7 @@ As a senior frontend & backend web developer, I have rich experience & history f
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=yinm8315&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bcd002&column=7&theme=onedark"/>
 </p>
 
 ## Used Skills & Tools
@@ -67,7 +67,7 @@ As a senior frontend & backend web developer, I have rich experience & history f
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=yinm8315&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yinm8315&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bcd002&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bcd002&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 </details>
